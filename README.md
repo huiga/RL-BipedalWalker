@@ -1,4 +1,4 @@
-# CSE352_Final_Project
+# Reinforcement Learning Algorithms with BipedalWalker
 
 ## Dependencies
 Python version 3.5 to 3.8
