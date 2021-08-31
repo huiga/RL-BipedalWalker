@@ -1,5 +1,5 @@
 # Reinforcement Learning Algorithms with BipedalWalker
-
+This is an in-depth study of common reinforcement learning algorithms, namely Q-Learning, Deep Q-Networkds, and Twin Delayed DDPG. The analysis of the performance and limitations of our implementations can be found at https://docs.google.com/document/d/1NKqEq8CwMB7ymHjgv1DwhWoUS-pDUyGi01Lr6u2p3WM/edit?usp=sharing
 ## Dependencies
 Python version 3.5 to 3.8
 
